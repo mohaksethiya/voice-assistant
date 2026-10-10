@@ -1,0 +1,7 @@
+.env
+.venv/
+venv/
+__pycache__/
+.DS_Store
+vosk-model-small-en-us-0.15/
+.idea/
